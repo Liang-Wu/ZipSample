@@ -1,0 +1,11 @@
+C:\work example\zipSample\zipSample\bin\Debug\zipSample.exe.config
+C:\work example\zipSample\zipSample\bin\Debug\zipSample.exe
+C:\work example\zipSample\zipSample\bin\Debug\zipSample.pdb
+C:\work example\zipSample\zipSample\bin\Debug\zipSample.xml
+C:\work example\zipSample\zipSample\bin\Debug\Ionic.Zip.dll
+C:\work example\zipSample\zipSample\obj\Debug\zipSample.vbprojResolveAssemblyReference.cache
+C:\work example\zipSample\zipSample\obj\Debug\zipSample.Resources.resources
+C:\work example\zipSample\zipSample\obj\Debug\zipSample.vbproj.GenerateResource.Cache
+C:\work example\zipSample\zipSample\obj\Debug\zipSample.exe
+C:\work example\zipSample\zipSample\obj\Debug\zipSample.xml
+C:\work example\zipSample\zipSample\obj\Debug\zipSample.pdb
